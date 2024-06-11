@@ -78,8 +78,8 @@ lib/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/y4cn/flutter_news_app
-    cd flutter_news_app
+    git clone https://github.com/sepehrTabeian/flutter_news
+    cd flutter_news
     ```
 
 2. Install the dependencies:
